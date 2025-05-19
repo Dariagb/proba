@@ -15,5 +15,6 @@ public class Main {
             System.out.println("Давай разбираться в проблеме");
         }
         Integer ger=0;
+        Integer ger1=0;
     }
 }
